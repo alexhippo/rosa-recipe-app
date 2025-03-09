@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 @theme {
-  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-serif: "Markazi Text", serif;
+  --font-cursive: "Alex Brush", cursive;
 }
 
 html,
@@ -11,5 +11,23 @@ body {
 
   @media (prefers-color-scheme: dark) {
     color-scheme: dark;
+  }
+}
+
+@layer base {
+  h2 {
+    @apply text-2xl font-bold sm:truncate sm:text-3xl sm:tracking-tight;
+  }
+
+  h3 {
+    @apply text-lg mt-4 space-y-6 sm:truncate sm:text-2xl sm:tracking-tight;
+  }
+
+  ul {
+    @apply list-disc list-inside;
+  }
+
+  ol {
+    @apply list-decimal list-inside;
   }
 }

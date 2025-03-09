@@ -1,87 +1,50 @@
-# Welcome to React Router!
+# Rosa Recipe App
 
-A modern, production-ready template for building full-stack React applications using React Router.
+A personal Recipe app built with React 19, React Router 7, Tailwind CSS and Markdown.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+I created this app as a way of keeping track of recipes I've learned and customised as well as practicing my React and Tailwind CSS skills.
 
-## Features
+## Add recipes as Markdown file
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+Recipes should be added to `app/data` folder as Markdown file.
 
-## Getting Started
-
-### Installation
-
-Install the dependencies:
-
-```bash
-npm install
-```
-
-### Development
-
-Start the development server with HMR:
-
-```bash
-npm run dev
-```
-
-Your application will be available at `http://localhost:5173`.
-
-## Building for Production
-
-Create a production build:
-
-```bash
-npm run build
-```
-
-## Deployment
-
-### Docker Deployment
-
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
+The Markdown file should follow this format:
 
 ```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
-
+---
+id: "1" (ensure this is incremented)
+title: [title of your recipe]
+ingredients:
+  - list
+  - your
+  - ingredients
+  - here
+estimatedTime: 1 hr + overnight
+originalRecipeLink: [if this exists, if not leave out]
 ---
 
-Built with ❤️ using React Router.
+### Method
+
+1. Add your method here
+2. Format is free as we will render this as HTML
+
+### Notes
+
+- add any additional notes here
+
+```
+
+## Convert Markdown files to JSON
+
+```
+pnpm convert
+```
+
+This utilises [Markdown to JSON](https://github.com/klaytonfaria/markdown-json) so that we can process the recipes as a static API.
+
+## Run app in dev mode
+
+```
+pnpm convert
+pnpm dev
+```
