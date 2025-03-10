@@ -11,6 +11,7 @@ ingredients:
   - cocoa powder
   - crushed Vienna almonds
 estimatedTime: 1 hr + overnight
+originalRecipeTitle: Baked Bree Quick Tiramisu Trifles
 originalRecipeLink: https://bakedbree.com/quick-tiramisu-trifles#recipe
 ---
 

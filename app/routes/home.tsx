@@ -20,7 +20,9 @@ export default function Home() {
     const link = "/recipe/" + recipeData.id;
     return (
       <li>
-        <Link to={link}>{recipeData.title}</Link>
+        <Link key={`${recipeData.id}-link`} to={link}>
+          {recipeData.title}
+        </Link>
       </li>
     );
   });

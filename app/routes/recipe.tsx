@@ -19,6 +19,7 @@ export default function Recipe() {
           title={selectedRecipeData.title}
           ingredients={selectedRecipeData.ingredients}
           estimatedTime={selectedRecipeData.estimatedTime}
+          originalRecipeTitle={selectedRecipeData.originalRecipeTitle}
           originalRecipeLink={selectedRecipeData.originalRecipeLink}
           contents={selectedRecipeData.contents}
         />

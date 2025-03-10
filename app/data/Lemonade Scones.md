@@ -9,6 +9,7 @@ ingredients:
   - extra flour, for dusting
   - jam and cream to serve
 estimatedTime: 1 hr
+originalRecipeTitle: Women's Weekly Lemonade Scones
 originalRecipeLink: https://www.womensweeklyfood.com.au/recipe/quick-and-easy/lemonade-scones-20352/#recipe-method-begining
 ---
 
