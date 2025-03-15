@@ -26,4 +26,5 @@ originalRecipeLink: https://www.womensweeklyfood.com.au/recipe/baking/banana-bre
 ### Notes
 
 - make sure the banana is not too ripe, otherwise the banana bread will end up being too sweet
+- mash banana as much as possible so that there aren't many solid bits in the bread
 - use slightly salted butter so that we don't need to add in extra salt
