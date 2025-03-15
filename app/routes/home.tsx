@@ -1,5 +1,5 @@
+import { transformRecipeData } from "~/transformation/transformRecipeData";
 import type { Route } from "./+types/home";
-import data from "build/output.json";
 import { Link } from "react-router";
 
 export function meta({}: Route.MetaArgs) {
@@ -13,16 +13,14 @@ export function meta({}: Route.MetaArgs) {
 }
 
 export default function Home() {
-  const recipesData = Object.entries(data.data);
+  const recipesData = transformRecipeData();
 
   const recipesList = recipesData.map((recipe) => {
-    const recipeData = recipe[1];
+    const recipeData = recipe;
     const link = "/recipe/" + recipeData.id;
     return (
-      <li>
-        <Link key={`${recipeData.id}-link`} to={link}>
-          {recipeData.title}
-        </Link>
+      <li key={`${recipeData.id}-link`}>
+        <Link to={link}>{recipeData.title}</Link>
       </li>
     );
   });

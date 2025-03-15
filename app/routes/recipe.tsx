@@ -1,30 +1,45 @@
-import { useParams } from "react-router";
-import RecipeDetails from "../recipe/recipeDetails";
-import data from "build/output.json";
+import { Link, useParams } from "react-router";
+import RecipeDetails from "../components/recipeDetails";
+import type { Route } from "../+types/root";
+import { getRecipeData } from "~/transformation/transformRecipeData";
+
+export function meta({}: Route.MetaArgs) {
+  const { id } = useParams();
+  let recipeTitle = "";
+  if (id) {
+    const recipe = getRecipeData(id);
+    if (recipe !== null) {
+      recipeTitle = recipe[0].title;
+    }
+  }
+
+  return [{ title: `${recipeTitle} - Rosa Recipe App` }];
+}
 
 export default function Recipe() {
   const { id } = useParams();
-  const recipesData = Object.entries(data.data);
 
-  // filter out data for the recipe with the id
-  const selectedRecipeData = recipesData.filter((recipeData) => {
-    const recipe = recipeData[1];
-    return recipe.id === id;
-  })[0][1];
-
-  if (selectedRecipeData) {
-    return (
-      <>
+  if (id) {
+    const recipe = getRecipeData(id);
+    if (recipe) {
+      return (
         <RecipeDetails
-          title={selectedRecipeData.title}
-          ingredients={selectedRecipeData.ingredients}
-          estimatedTime={selectedRecipeData.estimatedTime}
-          originalRecipeTitle={selectedRecipeData.originalRecipeTitle}
-          originalRecipeLink={selectedRecipeData.originalRecipeLink}
-          contents={selectedRecipeData.contents}
+          title={recipe[0].title}
+          ingredients={recipe[0].ingredients}
+          estimatedTime={recipe[0].estimatedTime}
+          originalRecipeTitle={recipe[0].originalRecipeTitle}
+          originalRecipeLink={recipe[0].originalRecipeLink}
+          contents={recipe[0].contents}
         />
-      </>
-    );
+      );
+    } else {
+      return (
+        <div>
+          <h2>Recipe not found</h2>
+          <Link to="/">Back to home</Link>
+        </div>
+      );
+    }
   }
 
   return null;
