@@ -15,7 +15,7 @@ originalRecipeTitle: RecipeTinEats Beer Battered Fish
 originalRecipeLink: https://www.recipetineats.com/crispy-beer-battered-fish/#wprm-recipe-container-56416
 ---
 
-### Method
+## Method
 
 1. Dry & cut fish: Pat fish dry using paper towels or a tea towel. Cut into 7 x 3cm / 3 x 1¼" batons, or larger fillets if you prefer. If you have very thick fillets, cut in half horizontally
 2. Dusting bowl: Place ¼ cup rice flour in a shallow bowl.

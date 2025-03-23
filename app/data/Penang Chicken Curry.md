@@ -11,7 +11,7 @@ ingredients:
 estimatedTime: 2 hr
 ---
 
-### Method
+## Method
 
 1. Cut thighs in half, without cutting through the bones
 2. Brown chicken thighs on both sides with no oil
@@ -24,4 +24,4 @@ estimatedTime: 2 hr
 9. Once sauce is boiling again, set fire to low and on small burner
 10. Let curry simmer for at least 20 minutes, stirring occasionally
 11. Add potatoes. Let curry simmer for at least 20 minutes
-12. Test if chicken and potatoes are already cook by slicing one
+12. Test if chicken and potatoes are already cooked by slicing one. It is ready to serve if so.

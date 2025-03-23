@@ -14,7 +14,7 @@ ingredients:
 estimatedTime: 2 hr
 ---
 
-### Method
+## Method
 
 1. Batter fish with flour, salt and pepper
 2. Fry (not deep) fish. Set aside
@@ -24,6 +24,6 @@ estimatedTime: 2 hr
 6. Add spinach to the sauce 2 mins
 7. Pour sauce over fried fish and serve
 
-### Notes
+## Notes
 
 - Feel free to add other veggies like carrots

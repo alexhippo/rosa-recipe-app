@@ -13,7 +13,7 @@ originalRecipeTitle: Women's Weekly Lemonade Scones
 originalRecipeLink: https://www.womensweeklyfood.com.au/recipe/quick-and-easy/lemonade-scones-20352/#recipe-method-begining
 ---
 
-### Method
+## Method
 
 1. Line baking tray with baking paper and lightly flour
 2. Sift flour and salt into a large bowl. Pour in lemonade and cream and mix to a soft sticky dough using flat pallet knife
@@ -25,6 +25,6 @@ originalRecipeLink: https://www.womensweeklyfood.com.au/recipe/quick-and-easy/le
 8. Bake for 220°C for approximately 12 - 13 mins, until tops are lightly browned
 9. After baking, let rest for about 5 minutes before serving with jam and cream
 
-### Notes
+## Notes
 
 - [also inspired by the CWA ladies](https://www.abc.net.au/news/2020-04-30/cwa-member-muriel-halsted-and-her-viral-scones/12189722)

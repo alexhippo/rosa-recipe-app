@@ -15,7 +15,7 @@ originalRecipeTitle: Baked Bree Quick Tiramisu Trifles
 originalRecipeLink: https://bakedbree.com/quick-tiramisu-trifles#recipe
 ---
 
-### Method
+## Method
 
 1. Mix together the mascarpone with the sugar. Whip the cream with the other 1/4 cup of sugar.
 2. Fold the whipped cream into the cheese mixture.
@@ -25,7 +25,7 @@ originalRecipeLink: https://bakedbree.com/quick-tiramisu-trifles#recipe
 6. Chill overnight
 7. To serve, dust with cocoa powder and side of crushed Vienna Almonds
 
-### Notes
+## Notes
 
 - use Italian-made ladyfingers only. Other ladyfingers tend to be very thick and require more soaking time
 - 2 - 3 layers only

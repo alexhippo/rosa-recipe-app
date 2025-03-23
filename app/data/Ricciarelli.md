@@ -11,7 +11,7 @@ originalRecipeTitle: SBS Food - Ricciarelli
 originalRecipeLink: https://www.sbs.com.au/food/recipe/italian-almond-biscuits-ricciarelli/j422q2ntf
 ---
 
-### Method
+## Method
 
 1. Line a baking tray with baking paper.
 2. Mix the almond meal and sugar in a large bowl.
@@ -21,6 +21,6 @@ originalRecipeLink: https://www.sbs.com.au/food/recipe/italian-almond-biscuits-r
 6. Bake for 10-12 minutes 180°C or until the cookies look slightly marked and the bottom is firm.
 7. Cool on a rack. These biscuits keep for weeks in an airtight container, so you can double the ingredients if you like and make a bigger batch.
 
-### Notes
+## Notes
 
 - can use the zest of any citrus fruit - orange, lemon, lime all work

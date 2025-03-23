@@ -20,7 +20,9 @@ export default function Home() {
     const link = "/recipe/" + recipeData.id;
     return (
       <li key={`${recipeData.id}-link`}>
-        <Link to={link}>{recipeData.title}</Link>
+        <Link to={link} className={"text-blue-800 underline"}>
+          {recipeData.title}
+        </Link>
       </li>
     );
   });
@@ -28,7 +30,7 @@ export default function Home() {
   return (
     <>
       <div className="p-15">
-        <h2>Recipes</h2>
+        <h1>Recipes</h1>
         <ul>{recipesList}</ul>
       </div>
     </>

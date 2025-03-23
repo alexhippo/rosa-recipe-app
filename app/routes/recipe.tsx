@@ -23,20 +23,25 @@ export default function Recipe() {
     const recipe = getRecipeData(id);
     if (recipe) {
       return (
-        <RecipeDetails
-          title={recipe[0].title}
-          ingredients={recipe[0].ingredients}
-          estimatedTime={recipe[0].estimatedTime}
-          originalRecipeTitle={recipe[0].originalRecipeTitle}
-          originalRecipeLink={recipe[0].originalRecipeLink}
-          contents={recipe[0].contents}
-        />
+        <>
+          <RecipeDetails
+            title={recipe[0].title}
+            ingredients={recipe[0].ingredients}
+            estimatedTime={recipe[0].estimatedTime}
+            originalRecipeTitle={recipe[0].originalRecipeTitle}
+            originalRecipeLink={recipe[0].originalRecipeLink}
+            contents={recipe[0].contents}
+          />
+          <div className={"pl-8 pb-2.5"}>
+            <Link to="/">← Back to home</Link>
+          </div>
+        </>
       );
     } else {
       return (
         <div>
           <h2>Recipe not found</h2>
-          <Link to="/">Back to home</Link>
+          <Link to="/">← Back to home</Link>
         </div>
       );
     }

@@ -19,25 +19,20 @@ export default function RecipeDetails({
   contents,
 }: RecipeDetailsProps) {
   return (
-    <article className="p-15" key={useId()}>
-      <h2>{title}</h2>
-      <h3 className="">Ingredients</h3>
+    <article className="pl-15 pt-15 pr-15 pb-5" key={useId()}>
+      <h1>{title}</h1>
+      <h2 className="">Ingredients</h2>
       <ul>
         {ingredients.map((ingredient) => {
           return <li key={`${ingredient}-key`}>{ingredient}</li>;
         })}
       </ul>
-      <h3>Estimated Time</h3>
+      <h2>Estimated Time</h2>
       <p>{estimatedTime}</p>
       {originalRecipeLink && (
         <>
-          <h3>Original Recipe</h3>
-          <a
-            className="text-blue-600 dark:text-blue-400 underline"
-            href={originalRecipeLink}
-          >
-            <p>{originalRecipeTitle}</p>
-          </a>
+          <h2>Original Recipe</h2>
+          <a href={originalRecipeLink}>{originalRecipeTitle}</a>
         </>
       )}
       {parse(contents)}
