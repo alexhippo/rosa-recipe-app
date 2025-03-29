@@ -1,6 +1,7 @@
 import { transformRecipeData } from "~/transformation/transformRecipeData";
 import type { Route } from "./+types/home";
 import { Link } from "react-router";
+import { basename } from "~/helpers/helpers";
 
 export function meta({}: Route.MetaArgs) {
   return [
@@ -17,7 +18,7 @@ export default function Home() {
 
   const recipesList = recipesData.map((recipe) => {
     const recipeData = recipe;
-    const link = "recipe/" + recipeData.id;
+    const link = basename + "recipe/" + recipeData.id;
     return (
       <li key={`${recipeData.id}-link`}>
         <Link to={link} className={"text-blue-800 underline"}>

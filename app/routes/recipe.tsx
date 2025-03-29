@@ -2,6 +2,7 @@ import { Link, useParams } from "react-router";
 import RecipeDetails from "../components/RecipeDetails";
 import type { Route } from "../+types/root";
 import { getRecipeData } from "~/transformation/transformRecipeData";
+import { basename } from "~/helpers/helpers";
 
 export function meta({}: Route.MetaArgs) {
   const { id } = useParams();
@@ -33,7 +34,7 @@ export default function Recipe() {
             contents={recipe[0].contents}
           />
           <div className={"pl-8 pb-2.5"}>
-            <Link to="/rosa-recipe-app">← Back to home</Link>
+            <Link to={basename}>← Back to home</Link>
           </div>
         </>
       );
@@ -41,7 +42,7 @@ export default function Recipe() {
       return (
         <div>
           <h2>Recipe not found</h2>
-          <Link to="/">← Back to home</Link>
+          <Link to={basename}>← Back to home</Link>
         </div>
       );
     }
