@@ -1,5 +1,6 @@
 {
   "name": "rosa-recipe-app",
+  "homepage": "https://alexhippo.github.io/rosa-recipe-app/",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,7 +9,7 @@
     "dev": "react-router dev",
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc",
-    "preview": "vite preview --port 8080"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@react-router/node": "^7.3.0",

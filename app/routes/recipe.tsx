@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router";
-import RecipeDetails from "../components/recipeDetails";
+import RecipeDetails from "../components/RecipeDetails";
 import type { Route } from "../+types/root";
 import { getRecipeData } from "~/transformation/transformRecipeData";
 
