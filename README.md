@@ -1,6 +1,6 @@
 # Rosa Recipe App
 
-A personal Recipe app built with React 19, React Router 7, Tailwind CSS and Markdown.
+A personal Recipe app built with React 19, React Router 7 and Tailwind CSS.
 
 I created this app as a way of keeping track of recipes I've learned and customised as well as practicing my React, Tailwind CSS and Accessibility skills.
 
