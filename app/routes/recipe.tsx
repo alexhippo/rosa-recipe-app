@@ -33,7 +33,7 @@ export default function Recipe() {
             contents={recipe[0].contents}
           />
           <div className={"pl-8 pb-2.5"}>
-            <Link to="/">← Back to home</Link>
+            <Link to="/rosa-recipe-app">← Back to home</Link>
           </div>
         </>
       );

@@ -17,7 +17,7 @@ export default function Home() {
 
   const recipesList = recipesData.map((recipe) => {
     const recipeData = recipe;
-    const link = "/recipe/" + recipeData.id;
+    const link = "recipe/" + recipeData.id;
     return (
       <li key={`${recipeData.id}-link`}>
         <Link to={link} className={"text-blue-800 underline"}>

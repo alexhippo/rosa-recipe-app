@@ -1,6 +1,13 @@
-import { type RouteConfig, index, route } from "@react-router/dev/routes";
+import {
+  type RouteConfig,
+  index,
+  route,
+  prefix,
+} from "@react-router/dev/routes";
 
 export default [
-  index("routes/home.tsx"),
-  route("recipe/:id", "routes/recipe.tsx"),
+  ...prefix("/rosa-recipe-app", [
+    index("routes/home.tsx"),
+    route("recipe/:id", "routes/recipe.tsx"),
+  ]),
 ] satisfies RouteConfig;
