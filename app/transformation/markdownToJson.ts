@@ -1,3 +1,4 @@
+// @ts-ignore - I don't think this is typescript supported
 import markdownJson from "markdown-json";
 const settings = {
   name: "markdown-json",
@@ -5,7 +6,7 @@ const settings = {
   src: "app/data/",
   filePattern: "**/*.md",
   ignore: "",
-  dist: "build/output.json",
+  dist: "app/transformation/output.json",
   metadata: true,
   server: false,
   port: 5173,

@@ -1,4 +1,4 @@
-import data from "build/output.json";
+import data from "../transformation/output.json";
 
 export type Recipe = {
   id: string;
