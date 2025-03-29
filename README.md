@@ -2,7 +2,9 @@
 
 A personal Recipe app built with React 19, React Router 7, Tailwind CSS and Markdown.
 
-I created this app as a way of keeping track of recipes I've learned and customised as well as practicing my React and Tailwind CSS skills.
+I created this app as a way of keeping track of recipes I've learned and customised as well as practicing my React, Tailwind CSS and Accessibility skills.
+
+Rosa is the name of my late grandmother. My Mum kept all her recipes in a Spirax notebook. 
 
 ## Add recipes as Markdown file
 
