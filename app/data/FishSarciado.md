@@ -18,11 +18,11 @@ estimatedTime: 2 hr
 
 1. Batter fish with flour, salt and pepper
 2. Fry (not deep) fish. Set aside
-3. Sangkucha - fry garlic, onion until transluscent. Add chopped tomato
-4. Add 2 cups of water and bring to the boil
-5. Beat 3 eggs and stir with the sauce for 2 mins
-6. Add spinach to the sauce 2 mins
-7. Pour sauce over fried fish and serve
+3. Sangkucha - fry garlic, onion until transluscent. Add chopped tomato. Ensure that the tomato is almost disintegrated to make the sauce thick.
+4. Add 1 cup of water and bring to the boil for at least 5 minutes
+5. Beat 3 eggs and stir with the sauce for at least 2 mins
+6. Add spinach to the sauce at least 2 mins
+7. Add fish to the sauce to keep it warm
 
 ## Notes
 

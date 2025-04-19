@@ -68,7 +68,7 @@
     },
     {
       "id": "2",
-      "contents": "<h2 id=\"method\">Method</h2>\n<ol>\n<li>Batter fish with flour, salt and pepper</li>\n<li>Fry (not deep) fish. Set aside</li>\n<li>Sangkucha - fry garlic, onion until transluscent. Add chopped tomato</li>\n<li>Add 2 cups of water and bring to the boil</li>\n<li>Beat 3 eggs and stir with the sauce for 2 mins</li>\n<li>Add spinach to the sauce 2 mins</li>\n<li>Pour sauce over fried fish and serve</li>\n</ol>\n<h2 id=\"notes\">Notes</h2>\n<ul>\n<li>Feel free to add other veggies like carrots</li>\n</ul>\n",
+      "contents": "<h2 id=\"method\">Method</h2>\n<ol>\n<li>Batter fish with flour, salt and pepper</li>\n<li>Fry (not deep) fish. Set aside</li>\n<li>Sangkucha - fry garlic, onion until transluscent. Add chopped tomato. Ensure that the tomato is almost disintegrated to make the sauce thick.</li>\n<li>Add 1 cup of water and bring to the boil for at least 5 minutes</li>\n<li>Beat 3 eggs and stir with the sauce for at least 2 mins</li>\n<li>Add spinach to the sauce at least 2 mins</li>\n<li>Add fish to the sauce to keep it warm</li>\n</ol>\n<h2 id=\"notes\">Notes</h2>\n<ul>\n<li>Feel free to add other veggies like carrots</li>\n</ul>\n",
       "title": "Fish Sarciado",
       "ingredients": [
         "1kg white fish fillets (e.g. barramundi fillets)",
@@ -85,10 +85,10 @@
       "excerpt": "",
       "meta": {
         "relativePath": "FishSarciado.html",
-        "createdAt": "2025-03-23T04:26:06.713Z",
-        "lastModified": "2025-03-23T04:26:06.713Z",
-        "size": 678,
-        "formattedSize": "678 Bytes"
+        "createdAt": "2025-04-19T07:39:43.359Z",
+        "lastModified": "2025-04-19T07:39:43.359Z",
+        "size": 792,
+        "formattedSize": "792 Bytes"
       }
     },
     {
@@ -157,6 +157,32 @@
         "lastModified": "2025-03-23T04:26:23.258Z",
         "size": 1014,
         "formattedSize": "1014 Bytes"
+      }
+    },
+    {
+      "id": "8",
+      "contents": "<h2 id=\"method\">Method</h2>\n<ol>\n<li>Grease and line a 9x5 or 8x4-inch loaf pan with baking paper </li>\n<li>Melt together chocolate and butter in the microwave in short bursts with frequent stirring until completely melted, smooth and glossy. </li>\n<li>Beat egg with sugar, vanilla and salt in a large bowl with a whisk or electric mixer for several minutes until pale, thick and fluffy. If using a mixer it will take 2-3 minutes. </li>\n<li>Beat in warm chocolate mixture until evenly blended. </li>\n<li>Sprinkle in flour and fold it in until well incorporated and smooth. </li>\n<li>Spread batter into prepared pan and sprinkle dark chocolate chunks on top if you have any. </li>\n<li>Bake for 16-24 minutes for 180°C until a skewer inserted into the center comes out with a few moist crumbs.</li>\n</ol>\n<h2 id=\"notes\">Notes</h2>\n<ul>\n<li>If you have a true 9x5-inch pan, the brownies should take just 16 minutes but if your pan is slightly smaller, they may need up to 25 minutes.</li>\n</ul>\n",
+      "title": "Small Batch Brownies",
+      "ingredients": [
+        "85g good dark chocolate (i.e. chocolate you would eat by itself, e.g. Choceur, Haigh's)",
+        "42g butter",
+        "1 large egg room temperature",
+        "1/4 cup packed brown sugar",
+        "1/2 tsp vanilla extract",
+        "1/4 tsp salt",
+        "1/4 cup flour",
+        "dark chocolate chunks for topping (optional)"
+      ],
+      "estimatedTime": "30 mins",
+      "originalRecipeTitle": "Scientifically Sweet BEST EVER Small Batch Brownies",
+      "originalRecipeLink": "https://scientificallysweet.com/small-batch-fudge-brownies/#recipe",
+      "excerpt": "",
+      "meta": {
+        "relativePath": "SmallBatchBrownies.html",
+        "createdAt": "2025-04-19T07:55:38.401Z",
+        "lastModified": "2025-04-19T07:55:38.401Z",
+        "size": 1414,
+        "formattedSize": "1.4 KB"
       }
     },
     {
