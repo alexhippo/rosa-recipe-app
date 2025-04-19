@@ -27,17 +27,17 @@ Fry 3 minutes: Carefully lower into oil, dropping it in away from you, one piece
 <ol>
 <li>Batter fish with flour, salt and pepper</li>
 <li>Fry (not deep) fish. Set aside</li>
-<li>Sangkucha - fry garlic, onion until transluscent. Add chopped tomato</li>
-<li>Add 2 cups of water and bring to the boil</li>
-<li>Beat 3 eggs and stir with the sauce for 2 mins</li>
-<li>Add spinach to the sauce 2 mins</li>
-<li>Pour sauce over fried fish and serve</li>
+<li>Sangkucha - fry garlic, onion until transluscent. Add chopped tomato. Ensure that the tomato is almost disintegrated to make the sauce thick.</li>
+<li>Add 1 cup of water and bring to the boil for at least 5 minutes</li>
+<li>Beat 3 eggs and stir with the sauce for at least 2 mins</li>
+<li>Add spinach to the sauce at least 2 mins</li>
+<li>Add fish to the sauce to keep it warm</li>
 </ol>
 <h2 id="notes">Notes</h2>
 <ul>
 <li>Feel free to add other veggies like carrots</li>
 </ul>
-`,title:"Fish Sarciado",ingredients:["1kg white fish fillets (e.g. barramundi fillets)","3 eggs","3 - 4 cloves of minced garlic","1 onion","1+ canned chopped tomato","1 bag of baby spinach","2 cups water","salt and pepper","1/2 cup flour"],estimatedTime:"2 hr",excerpt:"",meta:{relativePath:"FishSarciado.html",createdAt:"2025-03-23T04:26:06.713Z",lastModified:"2025-03-23T04:26:06.713Z",size:678,formattedSize:"678 Bytes"}},{id:"3",contents:`<h2 id="method">Method</h2>
+`,title:"Fish Sarciado",ingredients:["1kg white fish fillets (e.g. barramundi fillets)","3 eggs","3 - 4 cloves of minced garlic","1 onion","1+ canned chopped tomato","1 bag of baby spinach","2 cups water","salt and pepper","1/2 cup flour"],estimatedTime:"2 hr",excerpt:"",meta:{relativePath:"FishSarciado.html",createdAt:"2025-04-19T07:39:43.359Z",lastModified:"2025-04-19T07:39:43.359Z",size:792,formattedSize:"792 Bytes"}},{id:"3",contents:`<h2 id="method">Method</h2>
 <ol>
 <li>Line baking tray with baking paper and lightly flour</li>
 <li>Sift flour and salt into a large bowl. Pour in lemonade and cream and mix to a soft sticky dough using flat pallet knife</li>
@@ -82,7 +82,21 @@ Fry 3 minutes: Carefully lower into oil, dropping it in away from you, one piece
 <ul>
 <li>can use the zest of any citrus fruit - orange, lemon, lime all work</li>
 </ul>
-`,title:"Ricciarelli (Italian almond biscuits)",ingredients:["300 g (3 cups) almond meal","1/2 cup caster sugar","2 egg whites","finely grated zest of 1 lemon"],estimatedTime:"30 mins",originalRecipeTitle:"SBS Food - Ricciarelli",originalRecipeLink:"https://www.sbs.com.au/food/recipe/italian-almond-biscuits-ricciarelli/j422q2ntf",excerpt:"",meta:{relativePath:"Ricciarelli.html",createdAt:"2025-03-23T04:26:23.258Z",lastModified:"2025-03-23T04:26:23.258Z",size:1014,formattedSize:"1014 Bytes"}},{id:"1",contents:`<h2 id="method">Method</h2>
+`,title:"Ricciarelli (Italian almond biscuits)",ingredients:["300 g (3 cups) almond meal","1/2 cup caster sugar","2 egg whites","finely grated zest of 1 lemon"],estimatedTime:"30 mins",originalRecipeTitle:"SBS Food - Ricciarelli",originalRecipeLink:"https://www.sbs.com.au/food/recipe/italian-almond-biscuits-ricciarelli/j422q2ntf",excerpt:"",meta:{relativePath:"Ricciarelli.html",createdAt:"2025-03-23T04:26:23.258Z",lastModified:"2025-03-23T04:26:23.258Z",size:1014,formattedSize:"1014 Bytes"}},{id:"8",contents:`<h2 id="method">Method</h2>
+<ol>
+<li>Grease and line a 9x5 or 8x4-inch loaf pan with baking paper </li>
+<li>Melt together chocolate and butter in the microwave in short bursts with frequent stirring until completely melted, smooth and glossy. </li>
+<li>Beat egg with sugar, vanilla and salt in a large bowl with a whisk or electric mixer for several minutes until pale, thick and fluffy. If using a mixer it will take 2-3 minutes. </li>
+<li>Beat in warm chocolate mixture until evenly blended. </li>
+<li>Sprinkle in flour and fold it in until well incorporated and smooth. </li>
+<li>Spread batter into prepared pan and sprinkle dark chocolate chunks on top if you have any. </li>
+<li>Bake for 16-24 minutes for 180°C until a skewer inserted into the center comes out with a few moist crumbs.</li>
+</ol>
+<h2 id="notes">Notes</h2>
+<ul>
+<li>If you have a true 9x5-inch pan, the brownies should take just 16 minutes but if your pan is slightly smaller, they may need up to 25 minutes.</li>
+</ul>
+`,title:"Small Batch Brownies",ingredients:["85g good dark chocolate (i.e. chocolate you would eat by itself, e.g. Choceur, Haigh's)","42g butter","1 large egg room temperature","1/4 cup packed brown sugar","1/2 tsp vanilla extract","1/4 tsp salt","1/4 cup flour","dark chocolate chunks for topping (optional)"],estimatedTime:"30 mins",originalRecipeTitle:"Scientifically Sweet BEST EVER Small Batch Brownies",originalRecipeLink:"https://scientificallysweet.com/small-batch-fudge-brownies/#recipe",excerpt:"",meta:{relativePath:"SmallBatchBrownies.html",createdAt:"2025-04-19T07:55:38.401Z",lastModified:"2025-04-19T07:55:38.401Z",size:1414,formattedSize:"1.4 KB"}},{id:"1",contents:`<h2 id="method">Method</h2>
 <ol>
 <li>Mix together the mascarpone with the sugar. Whip the cream with the other 1/4 cup of sugar.</li>
 <li>Fold the whipped cream into the cheese mixture.</li>
@@ -98,4 +112,4 @@ Fry 3 minutes: Carefully lower into oil, dropping it in away from you, one piece
 <li>2 - 3 layers only</li>
 <li>overnight is best</li>
 </ul>
-`,title:"Tiramisu",ingredients:["500g mascapone","3 tbsp sugar plus 1/4 cup","1 cup pure cream","pack of Italian Ladyfingers (Italian only!)","1 cup espresso","1 tbsp Kahlua","cocoa powder","crushed Vienna almonds"],estimatedTime:"1 hr + overnight",originalRecipeTitle:"Baked Bree Quick Tiramisu Trifles",originalRecipeLink:"https://bakedbree.com/quick-tiramisu-trifles#recipe",excerpt:"",meta:{relativePath:"Tiramisu.html",createdAt:"2025-03-23T04:26:29.024Z",lastModified:"2025-03-23T04:26:29.024Z",size:1032,formattedSize:"1.0 KB"}}],o={data:n};function l(){let i=[];return Object.entries(o.data).map(t=>{const e=t[1];i.push({id:e.id,title:e.title,ingredients:e.ingredients,estimatedTime:e.estimatedTime,originalRecipeTitle:e.originalRecipeTitle,originalRecipeLink:e.originalRecipeLink,contents:e.contents})}),i}function r(i){const t=l().filter(e=>e.id===i);return t||null}export{r as g,l as t};
+`,title:"Tiramisu",ingredients:["500g mascapone","3 tbsp sugar plus 1/4 cup","1 cup pure cream","pack of Italian Ladyfingers (Italian only!)","1 cup espresso","1 tbsp Kahlua","cocoa powder","crushed Vienna almonds"],estimatedTime:"1 hr + overnight",originalRecipeTitle:"Baked Bree Quick Tiramisu Trifles",originalRecipeLink:"https://bakedbree.com/quick-tiramisu-trifles#recipe",excerpt:"",meta:{relativePath:"Tiramisu.html",createdAt:"2025-03-23T04:26:29.024Z",lastModified:"2025-03-23T04:26:29.024Z",size:1032,formattedSize:"1.0 KB"}}],l={data:n};function o(){let i=[];return Object.entries(l.data).map(t=>{const e=t[1];i.push({id:e.id,title:e.title,ingredients:e.ingredients,estimatedTime:e.estimatedTime,originalRecipeTitle:e.originalRecipeTitle,originalRecipeLink:e.originalRecipeLink,contents:e.contents})}),i}function r(i){const t=o().filter(e=>e.id===i);return t||null}export{r as g,o as t};
