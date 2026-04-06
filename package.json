@@ -14,7 +14,7 @@
     "deploy": "gh-pages -d build/client"
   },
   "dependencies": {
-    "@react-router/node": "^7.6.2",
+    "@react-router/node": "^7.9.4",
     "@react-router/serve": "^7.6.2",
     "gh-pages": "^6.3.0",
     "html-react-parser": "^5.2.5",
