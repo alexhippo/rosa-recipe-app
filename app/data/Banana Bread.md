@@ -19,7 +19,7 @@ originalRecipeLink: https://www.womensweeklyfood.com.au/recipe/baking/banana-bre
 ## Method
 
 1. Grease a loaf pan; line with baking paper.
-2. Beat butter, sugar and vanilla in a medium bowl with an electric mixer until paler and fluffy. Beat in eggs, one at a time, until just combined, then mashed banana and maple syrup.
+2. Beat butter, sugar and vanilla in a medium bowl with an electric mixer until paler and fluffy. Beat in eggs, one at a time, until just combined, then mashed banana.
 3. Sift over flour, baking powder, soda, cinnamon. Stir with a large spoon until combined. Spoon into pan; smooth the surface.
 4. Bake for 55 mins at 160°C or until a skewer inserted into the centre comes out clean. Leave in pan for 10 minutes before turning, top-side up, onto a wire rack to cool.
 
